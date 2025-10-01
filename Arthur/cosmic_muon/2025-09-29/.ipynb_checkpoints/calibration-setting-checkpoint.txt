@@ -1,0 +1,6 @@
+For speed measurements we use
+50 ns times 1 in the TAC setting 
+10 ns pulses for calibration
+
+
+
